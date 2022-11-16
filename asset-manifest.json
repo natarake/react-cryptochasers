@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-cryptochasers/static/css/main.ed6178ae.css",
-    "main.js": "/react-cryptochasers/static/js/main.32021d58.js",
+    "main.js": "/react-cryptochasers/static/js/main.075435fe.js",
     "index.html": "/react-cryptochasers/index.html",
     "main.ed6178ae.css.map": "/react-cryptochasers/static/css/main.ed6178ae.css.map",
-    "main.32021d58.js.map": "/react-cryptochasers/static/js/main.32021d58.js.map"
+    "main.075435fe.js.map": "/react-cryptochasers/static/js/main.075435fe.js.map"
   },
   "entrypoints": [
     "static/css/main.ed6178ae.css",
-    "static/js/main.32021d58.js"
+    "static/js/main.075435fe.js"
   ]
 }
