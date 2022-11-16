@@ -26,7 +26,7 @@ function App() {
     <ThemeProvider>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home coins={coins} />} />
+        <Route path="/react-crypto" element={<Home coins={coins} />} />
         <Route path="/signin" element={<Signin />} />
         <Route path="/signup" element={<Signup />} />
         <Route path="/account" element={<Account />} />

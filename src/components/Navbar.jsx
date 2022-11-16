@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <div className="rounded-div flex items-center justify-between h-20 font-bold">
-      <Link to="/">
+      <Link to="/react-crypto">
         <h1 className="text-2xl">CryptoChasers</h1>
       </Link>
       <div className="hidden md:block">
@@ -38,7 +38,7 @@ const Navbar = () => {
       <div
         className={
           nav
-            ? "md:hidden fixed left-0 top-20 flex flex-col items-center justify-between w-full h-[90%]"
+            ? "md:hidden fixed left-0 top-20 flex flex-col items-center justify-between w-full h-[90%] bg-primary"
             : "fixed left-[-100%] top-20 h-[90%] flex flex-col items-center justify-between ease-in duration-300"
         }
       >
